@@ -1,0 +1,5 @@
+outs:
+- md5: 9a76ac82d414a7271c286851e186566c
+  size: 180
+  isexec: true
+  path: meta.json

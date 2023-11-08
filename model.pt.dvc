@@ -1,0 +1,5 @@
+outs:
+- md5: 0e1ca7a026f622eb0618f8daa4654727
+  size: 94377269
+  isexec: true
+  path: model.pt
